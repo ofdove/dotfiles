@@ -1,0 +1,58 @@
+# NOTE:
+# docs:
+# ghostty +show-config --default --docs | nvim
+# examples:
+# https://github.com/search?q=path%3Aghostty%2Fconfig&type=code
+
+# ghostty +list-fonts
+
+font-size = 16
+
+theme = Kanagawa Wave
+# monospace
+# https://usgraphics.com/products/berkeley-mono
+font-family = "Fira Code"
+font-variation = wght=300
+font-variation = wdth=100
+font-family-bold = "Fira Code"
+font-variation-bold = wght=800
+
+# italics
+# https://github.com/subframe7536/maple-font
+font-family-italic = "Fira Code"
+font-variation-italic = wght=200
+font-family-bold-italic = "Fira Code"
+font-variation-bold-italic = wght=800
+
+window-title-font-family = "Fira Code"
+
+alpha-blending = linear-corrected
+
+macos-titlebar-style = tabs
+macos-titlebar-proxy-icon = hidden
+macos-option-as-alt = true
+
+background-opacity = 0.8
+background-blur-radius = 40
+
+
+mouse-hide-while-typing = true
+
+window-inherit-working-directory = false
+working-directory = home
+
+# Cursor 
+cursor-style = block
+cursor-style-blink = true
+shell-integration-features = no-cursor
+
+# keymaps
+keybind = global:cmd+`=toggle_quick_terminal
+keybind = shift+ctrl+left_bracket=previous_tab
+keybind = shift+ctrl+right_bracket=next_tab
+keybind = shift+ctrl+,=move_tab:-1
+keybind = shift+ctrl+.=move_tab:+1
+
+# shader
+# custom-shader = /Users/fredrik/code/public/ghostty-shaders/in-game-crt.glsl
+# custom-shader-animation = false

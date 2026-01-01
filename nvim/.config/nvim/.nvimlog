@@ -1,0 +1,2 @@
+WRN 2025-12-10T02:35:29.610 ?.68278    server_start:199: Failed to start server: operation not permitted: /var/folders/2l/vt82qp910qv8b0whdn5bs6cm0000gn/T/nvim.voyage/1xUc1C/nvim.68278.0
+WRN 2025-12-10T02:35:35.329 ?.68408    server_start:199: Failed to start server: operation not permitted: /var/folders/2l/vt82qp910qv8b0whdn5bs6cm0000gn/T/nvim.voyage/WnI8fS/nvim.68408.0

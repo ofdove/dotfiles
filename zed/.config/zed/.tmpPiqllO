@@ -1,0 +1,53 @@
+{"signed_in":false,"type":"Setting","setting":"theme","value":"One Dark","milliseconds_since_first_event":0}
+{"signed_in":false,"type":"Setting","setting":"keymap","value":"VSCode","milliseconds_since_first_event":0}
+{"signed_in":false,"type":"App","operation":"first open","milliseconds_since_first_event":0}
+{"signed_in":false,"type":"Editor","operation":"open","file_extension":null,"vim_mode":false,"copilot_enabled":true,"copilot_enabled_for_language":true,"milliseconds_since_first_event":0}
+{"signed_in":false,"type":"App","operation":"welcome page: toggle vim","milliseconds_since_first_event":4776}
+{"signed_in":false,"type":"App","operation":"welcome page: change keymap","milliseconds_since_first_event":11266}
+{"signed_in":false,"type":"App","operation":"welcome page: change theme","milliseconds_since_first_event":17338}
+{"signed_in":false,"type":"App","operation":"welcome page: install cli","milliseconds_since_first_event":19945}
+{"signed_in":false,"type":"App","operation":"welcome page: change theme","milliseconds_since_first_event":27920}
+{"signed_in":false,"type":"Setting","setting":"theme","value":"Andromeda","milliseconds_since_first_event":34571}
+{"signed_in":false,"type":"App","operation":"welcome page: change theme","milliseconds_since_first_event":35996}
+{"signed_in":false,"type":"App","operation":"welcome page: change theme","milliseconds_since_first_event":42557}
+{"signed_in":false,"type":"Setting","setting":"theme","value":"Atelier Cave Dark","milliseconds_since_first_event":43480}
+{"signed_in":false,"type":"App","operation":"welcome page: change theme","milliseconds_since_first_event":44873}
+{"signed_in":false,"type":"Setting","setting":"theme","value":"Atelier Dune Dark","milliseconds_since_first_event":46634}
+{"signed_in":false,"type":"App","operation":"welcome page: change theme","milliseconds_since_first_event":48060}
+{"signed_in":false,"type":"Setting","setting":"theme","value":"Ayu Dark","milliseconds_since_first_event":52008}
+{"signed_in":false,"type":"App","operation":"welcome page: change theme","milliseconds_since_first_event":53410}
+{"signed_in":false,"type":"Setting","setting":"theme","value":"One Light","milliseconds_since_first_event":56655}
+{"signed_in":false,"type":"App","operation":"welcome page: change theme","milliseconds_since_first_event":57888}
+{"signed_in":false,"type":"Setting","setting":"theme","value":"Rosé Pine Dawn","milliseconds_since_first_event":60294}
+{"signed_in":false,"type":"App","operation":"welcome page: change theme","milliseconds_since_first_event":61344}
+{"signed_in":false,"type":"Setting","setting":"theme","value":"Solarized Light","milliseconds_since_first_event":63400}
+{"signed_in":false,"type":"App","operation":"welcome page: change theme","milliseconds_since_first_event":64711}
+{"signed_in":false,"type":"App","operation":"welcome page: change theme","milliseconds_since_first_event":71516}
+{"signed_in":false,"type":"Setting","setting":"theme","value":"Rosé Pine Dawn","milliseconds_since_first_event":72123}
+{"signed_in":false,"type":"App","operation":"welcome page: change theme","milliseconds_since_first_event":76358}
+{"signed_in":false,"type":"Setting","setting":"theme","value":"One Dark","milliseconds_since_first_event":85144}
+{"signed_in":false,"type":"App","operation":"welcome page: install cli","milliseconds_since_first_event":87727}
+{"signed_in":false,"type":"App","operation":"welcome page: close","milliseconds_since_first_event":97930}
+{"signed_in":false,"type":"Assistant","conversation_id":"4f4d69c1-80f3-48d1-b1be-6992905f9cbd","kind":"panel","model":"gpt-4-1106-preview","milliseconds_since_first_event":182389}
+{"signed_in":false,"type":"Assistant","conversation_id":"4f4d69c1-80f3-48d1-b1be-6992905f9cbd","kind":"panel","model":"gpt-4-1106-preview","milliseconds_since_first_event":185636}
+{"signed_in":false,"type":"Assistant","conversation_id":"4f4d69c1-80f3-48d1-b1be-6992905f9cbd","kind":"panel","model":"gpt-4-1106-preview","milliseconds_since_first_event":186111}
+{"signed_in":false,"type":"Assistant","conversation_id":"4f4d69c1-80f3-48d1-b1be-6992905f9cbd","kind":"panel","model":"gpt-4-1106-preview","milliseconds_since_first_event":186296}
+{"signed_in":false,"type":"Assistant","conversation_id":"4f4d69c1-80f3-48d1-b1be-6992905f9cbd","kind":"panel","model":"gpt-4-1106-preview","milliseconds_since_first_event":190575}
+{"signed_in":false,"type":"Assistant","conversation_id":"4f4d69c1-80f3-48d1-b1be-6992905f9cbd","kind":"panel","model":"gpt-4-1106-preview","milliseconds_since_first_event":192795}
+{"signed_in":false,"type":"Assistant","conversation_id":"4f4d69c1-80f3-48d1-b1be-6992905f9cbd","kind":"panel","model":"gpt-4-1106-preview","milliseconds_since_first_event":193513}
+{"signed_in":false,"type":"Assistant","conversation_id":"4f4d69c1-80f3-48d1-b1be-6992905f9cbd","kind":"panel","model":"gpt-4-1106-preview","milliseconds_since_first_event":194517}
+{"signed_in":false,"type":"Assistant","conversation_id":"4f4d69c1-80f3-48d1-b1be-6992905f9cbd","kind":"panel","model":"gpt-4-1106-preview","milliseconds_since_first_event":195057}
+{"signed_in":false,"type":"Assistant","conversation_id":"38a72646-5f39-467c-a9d0-ebef9c0fbeb9","kind":"panel","model":"gpt-4-1106-preview","milliseconds_since_first_event":216761}
+{"signed_in":false,"type":"Assistant","conversation_id":"38a72646-5f39-467c-a9d0-ebef9c0fbeb9","kind":"panel","model":"gpt-4-1106-preview","milliseconds_since_first_event":217717}
+{"signed_in":false,"type":"Assistant","conversation_id":"38a72646-5f39-467c-a9d0-ebef9c0fbeb9","kind":"panel","model":"gpt-4-1106-preview","milliseconds_since_first_event":217905}
+{"signed_in":false,"type":"Assistant","conversation_id":"38a72646-5f39-467c-a9d0-ebef9c0fbeb9","kind":"panel","model":"gpt-4-1106-preview","milliseconds_since_first_event":218093}
+{"signed_in":false,"type":"Assistant","conversation_id":"38a72646-5f39-467c-a9d0-ebef9c0fbeb9","kind":"panel","model":"gpt-4-1106-preview","milliseconds_since_first_event":218257}
+{"signed_in":false,"type":"Assistant","conversation_id":"38a72646-5f39-467c-a9d0-ebef9c0fbeb9","kind":"panel","model":"gpt-4-1106-preview","milliseconds_since_first_event":218434}
+{"signed_in":false,"type":"Assistant","conversation_id":"38a72646-5f39-467c-a9d0-ebef9c0fbeb9","kind":"panel","model":"gpt-4-1106-preview","milliseconds_since_first_event":218622}
+{"signed_in":false,"type":"Assistant","conversation_id":"38a72646-5f39-467c-a9d0-ebef9c0fbeb9","kind":"panel","model":"gpt-4-1106-preview","milliseconds_since_first_event":218792}
+{"signed_in":false,"type":"Assistant","conversation_id":"38a72646-5f39-467c-a9d0-ebef9c0fbeb9","kind":"panel","model":"gpt-4-1106-preview","milliseconds_since_first_event":218949}
+{"signed_in":false,"type":"Assistant","conversation_id":"38a72646-5f39-467c-a9d0-ebef9c0fbeb9","kind":"panel","model":"gpt-4-1106-preview","milliseconds_since_first_event":219137}
+{"signed_in":false,"type":"Assistant","conversation_id":"38a72646-5f39-467c-a9d0-ebef9c0fbeb9","kind":"panel","model":"gpt-4-1106-preview","milliseconds_since_first_event":220103}
+{"signed_in":false,"type":"Assistant","conversation_id":"38a72646-5f39-467c-a9d0-ebef9c0fbeb9","kind":"panel","model":"gpt-4-1106-preview","milliseconds_since_first_event":220873}
+{"signed_in":false,"type":"Assistant","conversation_id":"38a72646-5f39-467c-a9d0-ebef9c0fbeb9","kind":"panel","model":"gpt-4-1106-preview","milliseconds_since_first_event":221117}
+{"signed_in":false,"type":"Assistant","conversation_id":"38a72646-5f39-467c-a9d0-ebef9c0fbeb9","kind":"panel","model":"gpt-4-1106-preview","milliseconds_since_first_event":221357}
