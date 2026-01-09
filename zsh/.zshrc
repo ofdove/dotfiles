@@ -10,3 +10,5 @@ alias v="nvim"
 
 export KUBE_EDITOR=nvim
 
+# For texlive
+export PATH="/usr/local/texlive/2025/bin/universal-darwin:$PATH"
