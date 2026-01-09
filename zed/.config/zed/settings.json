@@ -15,13 +15,22 @@
       "args": [],
       "projects": [
         {
-          "paths": ["/home/is/hang-qi"],
+          "paths": [
+            "/home/is/hang-qi"
+          ]
         },
         {
-          "paths": ["/home/is/hang-qi/AutoDoS"],
+          "paths": [
+            "/home/is/hang-qi/AutoDoS"
+          ]
         },
-      ],
-    },
+        {
+          "paths": [
+            "/home/is/hang-qi/llm-dos"
+          ]
+        }
+      ]
+    }
   ],
   "agent": {
     "default_model": {
