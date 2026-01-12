@@ -52,7 +52,7 @@
   "features": {
     "edit_prediction_provider": "copilot",
   },
-  "theme": "Kanagawa Wave",
+  "theme": "Everforest Dark Hard (blur)",
   "vim_mode": false,
   "buffer_font_family": "Fira Code",
   "ui_font_size": 16,
